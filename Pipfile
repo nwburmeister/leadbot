@@ -1,0 +1,27 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+flask = "*"
+gunicorn = "*"
+django-heroku = "*"
+pandas = "*"
+praw = "*"
+sqlalchemy = "*"
+flask-bcrypt = "*"
+psycopg2 = "*"
+flask-login = "*"
+flask-sqlalchemy = "*"
+flask-wtf = "*"
+textblob = "*"
+phonenumbers = "*"
+langdetect = "*"
+flask-mail = "*"
+
+[requires]
+
+python_version = "3.6"

@@ -1,0 +1,9 @@
+Hi {username},
+
+I came across your comment
+
+>{user_comment}
+
+on {subreddit}. was wondering if i could ask you a few things.
+
+Thx
